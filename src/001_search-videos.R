@@ -1,7 +1,7 @@
-# Install Package
+# Install Packages (Cukup 1 Kali)
 install.packages(c("tuber", "tidyverse"))
 
-# Load Package
+# Load Packages
 library(tuber)
 library(tidyverse)
 
